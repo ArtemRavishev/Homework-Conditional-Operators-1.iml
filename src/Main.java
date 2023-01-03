@@ -110,7 +110,7 @@ public class Main {
             System.out.println("Число " + two + " больше всех");
         }
         else {
-            System.out.println("Число " + three + " больше всех");
+            System.out.println("Число " + three + " больше всех ");
         }
     }
 }
